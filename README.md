@@ -1,4 +1,4 @@
-adraigAIO-MacOS
+PadraigAIO-MacOS
 
 <div align="center">
   <img src="https://img.shields.io/badge/Swift-5.9-FA7343.svg?style=for-the-badge&logo=swift" alt="Swift 5.9">
